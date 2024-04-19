@@ -26,8 +26,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosguida&theme=react-dark)](https://github.com/marcosguida)
 
-<br>
-<div align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
 
