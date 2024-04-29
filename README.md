@@ -8,6 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos.ribeirog?igsh=MWhvaDViZ3Jid2IyNw%3D%3D&utm_source=qr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ribeiroguidam@gmail.com)](mailto:ribeiroguidam@gmail.com)
 
+![Streak](https://streak-stats.demolab.com/?user=marcosguida&theme=codeSTACKr)
+
 ## Skills and tech
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="marcosguida-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
