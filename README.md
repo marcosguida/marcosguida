@@ -2,7 +2,7 @@
 
 - 👨‍⚕️ University Student - Information System in Unitins, Brazil. 
 - 👩‍💻 Software Developer
-- I'm currently only developing back-end in **Java, Spring Boot and NodeJS.**
+- I'm currently only developing back-end in **Java, Spring Boot and Python.**
 - Databases, I use **MongoDB, MySQL and Postgrees**
 
 
