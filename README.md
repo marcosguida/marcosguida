@@ -31,6 +31,11 @@
 </div>
 <br>
 <br>
+  
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosguida&theme=radical" />
+</p>
+<br/><br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosguida&theme=react-dark)](https://github.com/marcosguida)
 
