@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Star+Jedi&duration=4000&pause=&color=159FF7&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'm+Marcos+Guida.)](https://git.io/typing-svg)
 
-- 👨‍⚕️ University Student - Information System in Unitins, Brazil. 
+- 👨‍⚕️ University Student - Information Technology in Unitins, Brazil. 
 - 👩‍💻 Software Developer
 - I'm currently only developing back-end in **Java, Spring Boot and Python.**
 - Databases, I use **MySQL and PostgreSQL**
