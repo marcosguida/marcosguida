@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Star+Jedi&duration=4000&pause=&color=159FF7&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+I'm+Marcos+Guida.)](https://git.io/typing-svg)
 
 - 👨‍⚕️ University Student - Information Technology in Unitins, Brazil. 
-- 👩‍💻 Software Developer
-- I'm currently only developing back-end in **Java, Spring Boot and Python.**
-- Databases, I use **MySQL and PostgreSQL**
-
+- 👩‍💻 I'm a Full-Stack Software Developer
 
   
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ribeiro-guida?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
