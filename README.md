@@ -2,6 +2,7 @@
 
 - 👨‍⚕️ University Student - Information Technology in Unitins, Brazil. 
 - 👩‍💻 I'm a Full-Stack Software Developer
+- I'm a developer who likes Java and Python. 
 
   
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ribeiro-guida?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
