@@ -13,7 +13,7 @@
 ## Skills and tech
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,maven,git,mysql,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,nodejs,maven,git,mysql,postgres,docker" />
   </a>
 </p>
 <br>
