@@ -8,11 +8,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosguidda?igsh=MWhvaDViZ3Jid2IyNw%3D%3D&utm_source=qr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ribeiroguidam@gmail.com)](mailto:ribeiroguidam@gmail.com)
 
-![Streak](https://streak-stats.demolab.com/?user=marcosguida&theme=codeSTACKr)
-
 ## Skills and tech
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,nodejs,maven,git,mysql,postgres,docker" />
   </a>
 </p>
@@ -20,11 +18,12 @@
 <br>
 
 <p align="center">
+  
+  ![Streak](https://streak-stats.demolab.com/?user=marcosguida&theme=codeSTACKr)
+  <img width="41%" height="195px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=marcosguida&layout=compact&theme=transparent&hide_border=true&title_color=288CB8FF&text_color=00bfbf&bg_color=0d1117"/>
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosguida&theme=radical" />
 </p>
 <br/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosguida&theme=radical)
 
 
 
