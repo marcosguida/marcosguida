@@ -5,7 +5,6 @@
 - I'm a developer who likes Java, Javascript and Python. 
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ribeiro-guida?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos.rguida?igsh=MWhvaDViZ3Jid2IyNw%3D%3D&utm_source=qr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ribeiroguidam@gmail.com)](mailto:ribeiroguidam@gmail.com)
 
 ## Skills and tech
