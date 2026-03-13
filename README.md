@@ -7,12 +7,12 @@ In addition to technical knowledge, I bring interpersonal skills that contribute
 - 👨‍💻 University student — Internet Systems at IFTO, Brazil
 - 📊 Data Analyst | Software Developer
 
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-ribeiro-guida)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeiroguidam@gmail.com)
 
-</p>
+</div>
 
 ## 🛠️ Skills & Tech
 
