@@ -42,12 +42,13 @@ In addition to technical knowledge, I bring interpersonal skills that contribute
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=marcosguida&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-  </a>
-  <img width="41%" height="195px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=marcosguida&layout=compact&theme=transparent&hide_border=true&title_color=288CB8FF&text_color=00bfbf&bg_color=0d1117"/>
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosguida&theme=radical" />
-</p>
+</div >
+<div align="center">
+    <p align="center">
+      <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosguida&theme=radical" />
+    </p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/marcosguida?theme=dark">
+      <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/marcosguida">
+    </picture>
+</div >
