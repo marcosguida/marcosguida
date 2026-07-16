@@ -54,10 +54,14 @@ In addition to technical knowledge, I bring interpersonal skills that contribute
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 💻 Most Used Languages
 
 <div align="center">
+  <img src="./metrics-languages.svg" alt="Most used languages" />
+</div>
 
-<img src="./github-metrics.svg" alt="Marcos Guida's GitHub metrics" />
+## 📈 Contributions
 
+<div align="center">
+  <img src="./metrics-contributions.svg" alt="Contributions calendar and commit habits" />
 </div>
