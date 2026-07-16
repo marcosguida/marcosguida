@@ -59,9 +59,3 @@ In addition to technical knowledge, I bring interpersonal skills that contribute
 <div align="center">
   <img src="./metrics-languages.svg" alt="Most used languages" />
 </div>
-
-## 📈 Contributions
-
-<div align="center">
-  <img src="./metrics-contributions.svg" alt="Contributions calendar and commit habits" />
-</div>
