@@ -3,9 +3,7 @@ name: Metrics
 on:
   schedule:
     - cron: "0 6 * * *"
-  # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
-  # Roda tambem ao dar push na branch principal
   push:
     branches: ["main", "master"]
 
@@ -16,22 +14,46 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Gerar github-metrics.svg
+      # ------------------------------------------------------------------
+      # 1) Card de LINGUAGENS
+      # ------------------------------------------------------------------
+      - name: Linguagens
+        uses: lowlighter/metrics@latest
+        with:
+          # Token CLASSIC (fine-grained nao funciona). Scopes: repo, read:user
+          # Salvo como secret do repositorio: METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: marcosguida
+          filename: metrics-languages.svg
+          template: classic
+          base: ""                       
+          config_timezone: America/Araguaina
+
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
+
+      # ------------------------------------------------------------------
+      # 2) Card de CONTRIBUICOES (calendario plano + graficos de habitos)
+      # ------------------------------------------------------------------
+      - name: Contribuicoes
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: marcosguida
-          filename: github-metrics.svg
+          filename: metrics-contributions.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""                       
           config_timezone: America/Araguaina
 
-          # Linguagens mais usadas
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          # Calendario de contribuicoes PLANO (heatmap, nao 3D)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
 
-          # Calendario de contribuicoes isometrico (substitui o activity graph)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # Graficos de habitos de commit (por hora e por dia da semana)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
