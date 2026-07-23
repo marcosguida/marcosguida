@@ -59,6 +59,8 @@ Beyond technical expertise, I value analytical thinking, continuous learning, ef
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GithubActions](https://img.shields.io/badge/GithubActions-F24E1E?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 
 <div align="center">
